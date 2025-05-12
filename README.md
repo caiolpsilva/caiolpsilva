@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Olá! Sou um estudante de Ciência da Computação, tenho 20 anos e sou natural de Pernambuco, Brasil. Atualmente, estou estudando e tentando aprofundar meus conhecimentos em desenvolvimento de software, com foco em Java, Spring Boot, bancos de dados e computação em nuvem além de Desenvolvimento Web com HTML, CSS e Javascript.".
+Olá! Sou um estudante de Ciência da Computação, tenho 20 anos e sou natural de Pernambuco, Brasil. Atualmente, estou estudando e tentando aprofundar meus conhecimentos em desenvolvimento de software, com foco em Java, Spring Boot, bancos de dados e computação em nuvem além de Desenvolvimento Web com HTML, CSS e Javascript.
 
 <p align="left">
     <a href="https://github.com/caiolpsilva?tab=repositories&sort=stargazers">
