@@ -17,7 +17,6 @@ Olá! Sou um estudante de Ciência da Computação, tenho 20 anos e sou natural 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/caiolpsilva?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
     </a>
 </p>
 
@@ -58,7 +57,7 @@ Olá! Sou um estudante de Ciência da Computação, tenho 20 anos e sou natural 
 />
 
 
-/>
+
 <img 
     align="left" 
     alt="SPRING" 
@@ -91,5 +90,3 @@ Olá! Sou um estudante de Ciência da Computação, tenho 20 anos e sou natural 
   />
 
 </p>
-
-
