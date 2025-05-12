@@ -61,7 +61,6 @@ Olá! Sou um estudante de Ciência da Computação, tenho 20 anos e sou natural 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolpsilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
   
-<img src="https://raw.githubusercontent.com/caiolpsilva/caiolpsilva/output/snake.svg" alt="Snake animation" />
 
-###
 </p>
+
