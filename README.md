@@ -5,6 +5,8 @@
 Olá! Sou estudante de Ciência da Computação, tenho 20 anos e sou natural de Recife, Pernambuco, Brasil.  
 Atualmente, estou focado no aprofundamento em desenvolvimento de software com ênfase em **Java, Spring Boot, APIs REST, PostgreSQL, JPA e Flyway**, além de fundamentos de desenvolvimento web com **HTML, CSS e JavaScript**.
 
+🔗 [LinkedIn](https://www.linkedin.com/in/caiosilvape)
+
 ---
 
 ### Conexões e Métricas
