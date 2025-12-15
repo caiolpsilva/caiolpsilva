@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Caio Silva
+# Caio Silva
 
 **`Desenvolvedor de Software`**
 
-Olá! Sou um estudante de Ciência da Computação, tenho 20 anos e sou natural de Pernambuco, Brasil. Atualmente, estou estudando e tentando aprofundar meus conhecimentos em desenvolvimento de software, com foco em Java, Spring Boot, bancos de dados e computação em nuvem além de Desenvolvimento Web com HTML, CSS e Javascript.
+Olá! Sou um estudante de Ciência da Computação, tenho 20 anos e sou natural de Recife, Pernambuco. Atualmente, estou me dedicando ao estudo e aprofundamento em desenvolvimento de software, com foco em Java, Spring Boot, APIs REST, PostgreSQL, JPA e Flyway.
 
 <p align="left">
     <a href="https://github.com/caiolpsilva?tab=repositories&sort=stargazers">
@@ -24,17 +24,21 @@ Olá! Sou um estudante de Ciência da Computação, tenho 20 anos e sou natural 
 
 ### 🤖 Linguagens e Tecnologias
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate/JPA logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
 </div>
 
 ###
