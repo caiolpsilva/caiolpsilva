@@ -25,8 +25,6 @@ Atualmente, estou focado no aprofundamento em desenvolvimento de software com ê
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate/JPA" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flyway/flyway-original.svg" height="40" alt="Flyway" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -36,7 +34,6 @@ Atualmente, estou focado no aprofundamento em desenvolvimento de software com ê
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </div>
 
-> **Observação**: Flyway agora está incluído com seu ícone oficial (disponível no Devicon desde 2024).
 
 ---
 
