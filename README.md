@@ -52,5 +52,5 @@ Atualmente, estou focado no aprofundamento em desenvolvimento de software com ê
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-caiolpsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiosilvape/)](https://www.linkedin.com/in/caiosilvape/)
-[![Gmail Badge](https://img.shields.io/badge/-meu email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiolucas.pe@gmail.com)](mailto:caiolucas.pe@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiolucas.pe@gmail.com)](mailto:caiolucas.pe@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/caiolpsilva?label=follow&style=social)](https://github.com/caiolpsilva)
