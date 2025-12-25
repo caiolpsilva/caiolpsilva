@@ -5,8 +5,6 @@
 Olá! Sou estudante de Ciência da Computação, tenho 20 anos e sou natural de Recife, Pernambuco, Brasil.  
 Atualmente, estou focado no aprofundamento em desenvolvimento de software com ênfase em **Java, Spring Boot, APIs REST, PostgreSQL, JPA e Flyway**, além de fundamentos de desenvolvimento web com **HTML, CSS e JavaScript**.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/caiosilvape)
-
 ---
 
 ### Conexões e Métricas
@@ -36,21 +34,21 @@ Atualmente, estou focado no aprofundamento em desenvolvimento de software com ê
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 </div>
 
-
 ---
 
 ### Estatísticas do GitHub
 
-<div>
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=caiolpsilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolpsilva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Linguagens mais usadas" />
-</div>
-
-<br clear="both" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caiolpsilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180" alt="Estatísticas do GitHub" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiolpsilva&theme=tokyonight&layout=compact&langs_count=8" height="180" alt="Linguagens mais usadas" />
+</p>
 
 ---
+
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-caiolpsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiosilvape/)](https://www.linkedin.com/in/caiosilvape/)
-[![Gmail Badge](https://img.shields.io/badge/-@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiolucas.pe@gmail.com)](mailto:caiolucas.pe@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/caiolpsilva?label=follow&style=social)](https://github.com/caiolpsilva)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiosilvape/)
+[![Gmail](https://img.shields.io/badge/-caiolucas.pe@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:caiolucas.pe@gmail.com)
+[![GitHub Follow](https://img.shields.io/github/followers/caiolpsilva?label=follow&style=social)](https://github.com/caiolpsilva)
